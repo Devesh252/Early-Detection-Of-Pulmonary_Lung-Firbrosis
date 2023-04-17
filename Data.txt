@@ -1,0 +1,1 @@
+The data used for the project is downloaded from kaggle dataset. The follow the data below is the link given :-  https://www.kaggle.com/competitions/osic-pulmonary-fibrosis-progression/data
